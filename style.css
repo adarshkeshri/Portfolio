@@ -17,6 +17,10 @@ nav {
     background-color: rgb(3, 3, 70);
 }
 
+nav a{
+    color: white;
+    text-decoration: none;
+}
 nav ul {
     display: flex;
     justify-content: center;
